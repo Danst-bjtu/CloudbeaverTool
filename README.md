@@ -15,9 +15,9 @@ A Tool for Expanding Cloudbeaver Database Drivers
   - defaultPort:默认端口号
   - description:数据库描述
 
-如何扩展数据库？
+## 如何扩展数据库？
 
-基于Docker
+**_请先安装Docker_**
 
 1. 首先需要准备好要扩展的数据库驱动、图标文件并放到对应的文件夹中，并在drivers_plugins.csv中填写好信息
 2. 进入AddNewDrivers目录
