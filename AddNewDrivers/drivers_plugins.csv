@@ -1,0 +1,3 @@
+id,label,icon,class,sampleURL,defaultPort,description
+dm,达梦,icons/dm_icon.png,dm.jdbc.driver.DmDriver,jdbc:dm://{host}[:{port}]/[{daStabase}],5236,达梦数据库驱动
+oscar,神舟通用,icons/oscar_icon.jpg,com.oscar.Driver,jdbc:oscar://{host}[:{port}]/[{daStabase}],2003,神舟通用数据库驱动
